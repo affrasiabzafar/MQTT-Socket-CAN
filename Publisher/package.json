@@ -1,0 +1,17 @@
+{
+  "name": "publisher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Affrasiab",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonschema": "^1.2.6",
+    "mosca": "^2.8.3",
+    "mqtt": "^4.2.8"
+  },
+  "devDependencies": {}
+}

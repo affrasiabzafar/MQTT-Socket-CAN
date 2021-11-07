@@ -1,0 +1,37 @@
+[
+    {
+     "createdAt": "2021-11-07T05:16:48.373Z",
+     "Manufacturer": "Hyundai",
+     "model": "Jetta",
+     "color": "indigo",
+     "id": "1"
+    },
+    {
+     "createdAt": "2021-11-07T13:11:22.312Z",
+     "Manufacturer": "Chrysler",
+     "model": "1",
+     "color": "indigo",
+     "id": "2"
+    },
+    {
+     "createdAt": "2021-11-07T13:04:52.058Z",
+     "Manufacturer": "Porsche",
+     "model": "XC90",
+     "color": "grey",
+     "id": "3"
+    },
+    {
+     "createdAt": "2021-11-07T01:25:08.072Z",
+     "Manufacturer": "Toyota",
+     "model": "PT Cruiser",
+     "color": "blue",
+     "id": "4"
+    },
+    {
+     "createdAt": "2021-11-07T11:38:48.986Z",
+     "Manufacturer": "Hyundai",
+     "model": "Challenger",
+     "color": "cyan",
+     "id": "5"
+    }
+   ]
